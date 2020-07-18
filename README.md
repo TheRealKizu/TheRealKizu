@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2 align="center"> TheRealKizu </h2>
+<h3 align="center">💻 HS Student | Developer 💻<h3>
+
+---
+
+Hello! I am both a high school student and a developer! I do mostly code on PHP and JavaScript but I also code on C++, Python, and Java!
+
+If you wish to know more about me, follow me on [Twitter](https://twitter.com/jlmunoz08) or send me a DM on `TheRealKizu#3267` on Discord!
+
+---
+
 
 <!--
 **TheRealKizu/TheRealKizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
