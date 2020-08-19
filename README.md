@@ -1,6 +1,6 @@
 ---
 <!-- Avatar -->
-<img align="right" alt="Lmao" width=30% src="https://images-ext-1.discordapp.net/external/YtyS_aoxaO0nYxm10WmCd7d7lsBxG764hjfhaOUxsKk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/380307921952833537/aa9e5679ed1668efb7a92d904a844b04.png?width=460&height=460">
+<img align="right" alt="Lmao" width=30% src="https://images-ext-2.discordapp.net/external/SK_aazL8ithiZYRyvL6rqyyHlMjsrApL25S7j_XwnGQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/380307921952833537/aa6d7e23ed98add8bec4b3a8ffb46ff6.png?width=460&height=460">
 
 <!-- Header -->
 
