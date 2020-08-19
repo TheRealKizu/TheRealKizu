@@ -18,6 +18,8 @@
 <img align="left" alt="Python" width="30px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"> 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
+<br />
+
 ## ⇁ GitHub Statistics
 
 [![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
