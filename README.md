@@ -7,11 +7,6 @@
 # ★ Bio
 <p align="left">Hello there! My name is Kizu. I live in the Philippines 🇵🇭 and I do programming for my future job!</p>
 
-## ⇁ Socials
-
-* Email: `therealkizu@protonmail.com`
-* Discord: `TheRealKizu#3267`
-
 ## ⇁ Languages I know
 
 <img align="left" alt="PHP" width="30px" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"> 
@@ -23,6 +18,11 @@
 ## ⇁ GitHub Statistics
 
 [![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⇁ Socials
+
+* Email: `therealkizu@protonmail.com`
+* Discord: `TheRealKizu#3267`
 
 <!--
 **TheRealKizu/TheRealKizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
