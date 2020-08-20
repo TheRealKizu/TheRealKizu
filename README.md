@@ -9,9 +9,9 @@
 
 ## ⇁ Languages I know
 
-<img align="left" alt="PHP" width="30px" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"> 
-<img align="left" alt="Python" width="30px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"> 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+* [JavaScript](https://javascript.com)
+* [PHP](https://php.net)
+* [Python](https://python.org)
 
 <br />
 
