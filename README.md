@@ -13,8 +13,6 @@
 * [PHP](https://php.net)
 * [Python](https://python.org)
 
-<br />
-
 ## ⇁ GitHub Statistics
 
 [![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
