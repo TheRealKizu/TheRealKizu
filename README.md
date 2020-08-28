@@ -10,6 +10,7 @@
 <!-- Description -->
 ## ⇁ Languages I know
 
+* [C++](https://github.com/topics/cpp)
 * [JavaScript](https://javascript.com)
 * [PHP](https://php.net)
 * [Python](https://python.org)
