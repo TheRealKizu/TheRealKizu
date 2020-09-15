@@ -12,6 +12,7 @@
 
 * [C++](https://github.com/topics/cpp)
 * [JavaScript](https://javascript.com)
+* [TypeScript](https://www.typescriptlang.org)
 * [PHP](https://php.net)
 * [Python](https://python.org)
 
