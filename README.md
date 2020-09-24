@@ -1,6 +1,6 @@
 ---
 <!-- Avatar -->
-<img align="right" alt="Lmao" width=30% src="https://images-ext-2.discordapp.net/external/bOhAT5QOTfH5APSxkUxGfSB8DdhNpTRlpwfYFAY2GxQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/380307921952833537/1a917c38c3ac8b891052a39c064dcb62.png?width=462&height=462">
+<img align="right" alt="Lmao" width=30% src="https://media.discordapp.net/attachments/757532943987114075/758654019127738408/kizu_pfp.png?width=462&height=462">
 
 <!-- Header -->
 
