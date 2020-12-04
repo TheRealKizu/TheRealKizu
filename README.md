@@ -1,30 +1,28 @@
 ---
-<!-- IMAGE -->
-<img align="right" alt="Lmao" width=30% src="https://media.discordapp.net/attachments/757532943987114075/758654019127738408/kizu_pfp.png?width=462&height=462">
-
 <!-- INFO -->
-
 # ★ Bio
 <p align="left">Hello there! My name is Kizu. I live in the Philippines 🇵🇭 and I do programming for my future job!</p>
 
 <!-- DESCRIPTION -->
-## ⇁ Languages I know
+## ⇁ Languages I use
 
 * [C++](https://github.com/topics/cpp)
-* [JavaScript](https://javascript.com) and [TypeScript](https://www.typescriptlang.org)
+* [JavaScript](https://javascript.com)
+* [TypeScript](https://www.typescriptlang.org)
 * [PHP](https://php.net)
-* [Python](https://python.org)
 
 <!--- SOCIALS --->
 ## ⇁ Socials
 
+* Discord Account: `TheRealKizu#3267`
 * Email: `therealkizu@protonmail.com`
-* Discord: `TheRealKizu#3267`
 
 <!--- MISC --->
 ## ⇁ GitHub Statistics
 
-[![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kizu's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealkizu&show_icons=true&count_private=true&layout=compact&hide_title=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheRealKizu/TheRealKizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
