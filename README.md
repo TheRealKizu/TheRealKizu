@@ -20,9 +20,9 @@
 <!--- MISC --->
 ## ⇁ GitHub Statistics
 
-[![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Kizu's Github Stats](https://github-readme-stats.vercel.app/api?username=therealkizu&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kizu's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealkizu&show_icons=true&count_private=true&layout=compact&hide_title=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Kizu's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealkizu&show_icons=true&count_private=true&layout=compact&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheRealKizu/TheRealKizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
