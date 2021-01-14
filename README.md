@@ -14,7 +14,6 @@
 ![img](https://github.com/TheRealKizu/TheRealKizu/blob/master/img/rice.png?raw=true)
 
 <---
----
 <details>
 	<summary> </summary>
 	<div align="center">
