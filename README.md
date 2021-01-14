@@ -17,6 +17,6 @@
 <details>
 	<summary> </summary>
 	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealKizu&theme=gotham"></img> 
+		<img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&theme=gotham"></img> 
 	</div>
 </details>
