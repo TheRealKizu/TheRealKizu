@@ -9,6 +9,7 @@
 	<a href="http://therealkizu.github.io">website</a>
 </div>
 
-<h6 align="center">inspired by nuaNce <h6>
+<!--- <h6 align="center">inspired by nuaNce <h6> --->
+<p> </p>
 
 ![img](https://raw.githubusercontent.com/TheRealKizu/TheRealKizu/master/img/Screenshot-Jan08-07-17.png)
