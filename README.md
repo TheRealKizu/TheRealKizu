@@ -7,4 +7,7 @@
 	|
 	<a href="http://therealkizu.github.io">website</a>
 </div>
-<h6 style="color: white;" align="center">inspired from nuaNce readme</h6>
+
+<h6 align="center">inspired from nuaNce readme</h6>
+
+![img](https://raw.githubusercontent.com/TheRealKizu/TheRealKizu/master/img/Screenshot-Jan08-07-17.png)
