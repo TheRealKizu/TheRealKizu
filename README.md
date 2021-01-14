@@ -13,6 +13,7 @@
 
 ![img](https://github.com/TheRealKizu/TheRealKizu/blob/master/img/rice.png?raw=true)
 
+<---
 ---
 <details>
 	<summary> </summary>
@@ -20,3 +21,4 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&theme=gotham"></img> 
 	</div>
 </details>
+--->
