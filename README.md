@@ -1,4 +1,3 @@
-
 <h2 align="center"> TheRealKizu </h2>
 
 <div align="center">
@@ -13,3 +12,8 @@
 <p> </p>
 
 ![img](https://github.com/TheRealKizu/TheRealKizu/blob/master/img/rice.png?raw=true)
+
+---
+<details>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealKizu&theme=gotham"> </img>
+</details>
