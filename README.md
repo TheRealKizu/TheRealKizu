@@ -9,4 +9,4 @@
 <!--- <h6 align="center">inspired by nuaNce <h6> --->
 <p> </p>
 
-![img](https://github.com/TheRealKizu/TheRealKizu/blob/master/img/rice.png?raw=true)
+![img](https://github.com/TheRealKizu/TheRealKizu/blob/master/img/Jan26-06-39.png?raw=true)
