@@ -9,4 +9,4 @@
 <!--- <h6 align="center">inspired by nuaNce <h6> --->
 <p> </p>
 
-![img](https://cdn.mythcord.cf/u/kciv4yJ.png)
+![img](https://cdn.mythcord.cf/u/u2mkMkF.png)
