@@ -9,4 +9,4 @@
 <!--- <h6 align="center">inspired by nuaNce <h6> --->
 <p> </p>
 
-![img](https://cdn.discordapp.com/attachments/635625917623828520/816249380360159232/r1i5sJs.png)
+![img](https://cdn.mythcord.cf/u/kciv4yJ.png)
