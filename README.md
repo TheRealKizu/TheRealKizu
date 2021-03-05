@@ -6,7 +6,6 @@
 	<a href="https://home.kizu.cf">website</a>
 </div>
 
-<!--- <h6 align="center">inspired by nuaNce <h6> --->
 <p> </p>
 
-![img](https://cdn.mythcord.cf/u/6My6EtX.png)
+![img](https://cdn.mythcord.cf/u/KH5VcVh.png)
