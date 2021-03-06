@@ -6,6 +6,4 @@
 	<a href="https://home.kizu.cf">website</a>
 </div>
 
-<p> </p>
-
-![img](https://cdn.mythcord.cf/u/KH5VcVh.png)
+![img](https://cdn.mythcord.cf/u/uRmDpxN.png)
