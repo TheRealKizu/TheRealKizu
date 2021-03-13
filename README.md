@@ -8,4 +8,4 @@
 
 <p/>
 
-![img](https://cdn.mythcord.cf/u/DTSEMGm.png)
+![img](https://cdn.mythcord.cf/u/gE9rPu0.png)
