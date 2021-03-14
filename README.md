@@ -1,12 +1,17 @@
-<h2 align="center"> ━━━━━━ ❖ ━━━━━━ </h2>
+<!--- TITLE --->
+# `Hey! I'm Kizu 👋`
 
-<div align="center">
-	<a href="https://home.kizu.cf">website</a> |
-	<a href="https://github.com/TheRealKizu/dotfiles">dotfiles</a>
-</div>
+<!--- DESCRIPTION --->
+  > I'm a backend developer and a Linux poweruser.
+  
+<!--- LANGUAGES --->
+## — Languages
+   * [C++](https://github.com/topics/cpp)
+   * [JavaScript](https://javascript.com)
+   * [TypeScript](https://www.typescriptlang.org)
+   * [Rust](https://www.rust-lang.org/)
 
-<p/>
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&title_color=84a0c6&bg_color=13141d&icon_color=89b8c2&text_color=84a0c6">
-</div>
+<!--- SOCIALS --->
+## — Socials
+   * Discord Account: `TheRealKizu#3267`
+   * Email: `therealkizu@protonmail.com`
