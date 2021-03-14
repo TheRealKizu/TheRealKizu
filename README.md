@@ -5,6 +5,6 @@
 	<a href="https://github.com/TheRealKizu/dotfiles">dotfiles</a>
 </div>
 
----
+<p/>
 
-![img](https://cdn.mythcord.cf/u/b8RyLg4.png)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&title_color=84a0c6&bg_color=13141d&icon_color=89b8c2&text_color=84a0c6)](https://github.com/anuraghazra/github-readme-stats)
