@@ -1,13 +1,15 @@
 <!-- TITLE -->
 # `Hey! I'm Kizu 👋`
 
-<!-- DESCRIPTION -->
-  > I'm a backend developer and a Linux poweruser.
-  
 <!-- ABOUT ME -->
 ### ❖ About Me
 
    I'm a Filipino high-school student, a web-backend developer and a Linux enthusiast. I mostly do [TypeScript](https://typescriptlang.org) projects.
+
+<!-- PLANNED SHIT -->
+### ❖ Planned
+
+   * Finish [Rust](https://rust-lang.org) course.
 
 <!--
    * [C++](https://github.com/topics/cpp)
@@ -21,3 +23,7 @@
 
    * Discord: `TheRealKizu#3267`
    * Email: `therealkizu@protonmail.com`
+
+<!-- GITHUB STATS -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&title_color=84a0c6&bg_color=13141d&icon_color=89b8c2&text_color=84a0c6" align="center">
