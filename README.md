@@ -9,7 +9,7 @@
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
-   * Finish [Kotlin](https://kotlinlang.org/) course.
+   * Finish [Rust](https://rust-lang.org/) course.
 
 <!--- SOCIALS -->
 ### ❖ Socials
