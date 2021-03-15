@@ -26,4 +26,6 @@
 
 <!-- GITHUB STATS -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&title_color=84a0c6&bg_color=13141d&icon_color=89b8c2&text_color=84a0c6" align="center">
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=TheRealKizu&show_icons=true&title_color=84a0c6&bg_color=13141d&icon_color=89b8c2&text_color=84a0c6">
+</div>
