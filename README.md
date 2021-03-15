@@ -24,6 +24,10 @@
    * Discord: `TheRealKizu#3267`
    * Email: `therealkizu@protonmail.com`
 
+---
+
+<p/>
+
 <!-- GITHUB STATS -->
 
 <div align="center">
