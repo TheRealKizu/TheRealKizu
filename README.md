@@ -24,7 +24,7 @@
 <!-- GITHUB STATS -->
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=TheRealKizu&theme=juicyfresh&no-frame=true>
+   <img src="https://github-profile-trophy.vercel.app/?username=TheRealKizu&theme=juicyfresh&no-frame=true">
 </p>
 
 <p align="center">
