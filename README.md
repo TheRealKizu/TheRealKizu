@@ -9,14 +9,7 @@
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
-   * Finish [Rust](https://rust-lang.org) course.
-
-<!--
-   * [C++](https://github.com/topics/cpp)
-   * [JavaScript](https://javascript.com)
-   * [TypeScript](https://www.typescriptlang.org)
-   * [Rust](https://www.rust-lang.org/)
-   -->
+   * Finish [Rust](https://rust-lang.org/) course.
 
 <!--- SOCIALS -->
 ### ❖ Socials
