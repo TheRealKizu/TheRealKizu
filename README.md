@@ -10,7 +10,7 @@
 ### ❖ Planned
 
    * Finish [Rust](https://rust-lang.org/) course.
-   * Learn [Lua](https://lua.org/) and migrate to [AwesomeWM](https://awesomewm.org/)
+   * Learn [Lua](https://lua.org/) and migrate to [AwesomeWM](https://awesomewm.org/).
 
 <!--- SOCIALS -->
 ### ❖ Socials
