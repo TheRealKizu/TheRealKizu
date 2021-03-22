@@ -4,12 +4,13 @@
 <!-- ABOUT ME -->
 ### ❖ About Me
 
-   I'm a Filipino high-school student, a web-backend developer and a Linux enthusiast. I mostly do [TypeScript](https://typescriptlang.org) projects.
+   I'm a Filipino high-school student, a web-backend developer and a Linux enthusiast.
 
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
    * Finish [Rust](https://rust-lang.org/) course.
+   * Learn [Lua](https://lua.org/) and migrate to [AwesomeWM](https://awesomewm.org/)
 
 <!--- SOCIALS -->
 ### ❖ Socials
