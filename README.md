@@ -9,7 +9,7 @@
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
-   * Finish [Rust](https://rust-lang.org/) course.
+   * Finish [Rust](https://rust-lang.org/) course and [Java](https://java.com/) course.
    * Learn [Lua](https://lua.org/) and migrate to [AwesomeWM](https://awesomewm.org/).
 
 <!--- SOCIALS -->
