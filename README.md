@@ -9,7 +9,8 @@
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
-   * Finish [Rust](https://rust-lang.org/) course and [Java](https://java.com/) course.
+   * Finish [Rust](https://rust-lang.org/) course.
+   * Learn [Lua](https://lua.org)
 
 <!--- SOCIALS -->
 ### ❖ Socials
