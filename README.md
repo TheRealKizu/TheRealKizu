@@ -10,7 +10,7 @@
 ### ❖ Planned
 
    * Finish [Rust](https://rust-lang.org/) course.
-   * Learn [Lua](https://lua.org)
+   * Learn [Lua](https://lua.org).
 
 <!--- SOCIALS -->
 ### ❖ Socials
