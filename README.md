@@ -9,8 +9,7 @@
 <!-- PLANNED SHIT -->
 ### ❖ Planned
 
-   * Finish [Rust](https://rust-lang.org/) course.
-   * Learn [Lua](https://lua.org).
+   * Finish [Lua](https://lua.org) and [Rust](https://rust-lang.org/) course.
 
 <!--- SOCIALS -->
 ### ❖ Socials
