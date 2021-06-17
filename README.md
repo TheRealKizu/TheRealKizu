@@ -14,7 +14,7 @@
 <!--- SOCIALS -->
 ### ❖ Socials
 
-   * Discord: `TheRealKizu#3267`
+   * Discord: `Kizu#3267`
    * Email: `therealkizu@protonmail.com`
 
 ---
