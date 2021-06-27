@@ -6,11 +6,6 @@
 
    I'm a Filipino high-school student, a web-backend developer and a Linux enthusiast.
 
-<!-- PLANNED SHIT -->
-### ❖ Planned
-
-   * Finish [Rust](https://rust-lang.org/) course.
-
 <!--- SOCIALS -->
 ### ❖ Socials
 
