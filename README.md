@@ -19,6 +19,12 @@
 <!-- GITHUB STATS -->
 
 <p align="center">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+   <img src="https://img.shields.io/badge/Rust-F74B00?style=for-the-badge&logo=Rust&logoColor=white">
+</p>
+
+<p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=TheRealKizu&theme=juicyfresh&no-frame=true&margin-w=20&rank=SECRET,S,AAA,AA,A">
 </p>
 
